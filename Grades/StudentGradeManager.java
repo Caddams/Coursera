@@ -1,3 +1,4 @@
+package Grades;
 import java.util.*;
 
 class Student {
